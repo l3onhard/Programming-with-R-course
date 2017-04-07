@@ -1,0 +1,2 @@
+Diagnose,Geschlecht,Untersuchungsdatum,Groesse,Gewicht,HF,RR_sys,Rhythmus,Alter,BMI
+1,ACS,m,2003-07-08,165,65,59,185,VHF,80,23.8751147842057

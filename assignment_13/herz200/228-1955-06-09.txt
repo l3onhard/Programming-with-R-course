@@ -1,0 +1,2 @@
+Diagnose,Geschlecht,Untersuchungsdatum,Groesse,Gewicht,HF,RR_sys,Rhythmus,Alter,BMI
+1,chf,m,2006-02-08,178,105,65,137,SR,50,33.1397550814291
